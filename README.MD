@@ -118,6 +118,8 @@
 
 For the complete installation guide, click the link below:
 
-🔗 "𝗩𝗜𝗘𝗪 𝗩𝗔𝗟𝗬 𝗟𝗔𝗨𝗡𝗖𝗛𝗘𝗥 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗚𝗨𝗜𝗗𝗘" (https://github.com/VisualC5x/Valy-Launcher-/blob/main/INSTALLATION-GUIDE.MD) 
+🔗 𝗩𝗜𝗘𝗪 𝗩𝗔𝗟𝗬 𝗟𝗔𝗨𝗡𝗖𝗛𝗘𝗥 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗚𝗨𝗜𝗗𝗘
+
+https://github.com/VisualC5x/Valy-Launcher-/blob/main/INSTALLATION-GUIDE.MD
 ---
 ### ═══════════════════════ ✦ ═══════════════════════
