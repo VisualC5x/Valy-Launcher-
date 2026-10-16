@@ -118,8 +118,6 @@
 
 For the complete installation guide, click the link below:
 
-🔗 𝗩𝗔𝗟𝗬 𝗟𝗔𝗨𝗡𝗖𝗛𝗘𝗥 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗚𝗨𝗜𝗗𝗘
-
-"📖 𝗩𝗜𝗘𝗪 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗚𝗨𝗜𝗗𝗘" (https://github.com/LNTB017/Valy-Launcher-/blob/main/%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%A1%20%F0%9D%97%9A%F0%9D%97%A8%F0%9D%97%9C%F0%9D%97%97%F0%9D%97%98.MD) 
+🔗 "𝗩𝗜𝗘𝗪 𝗩𝗔𝗟𝗬 𝗟𝗔𝗨𝗡𝗖𝗛𝗘𝗥 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗚𝗨𝗜𝗗𝗘" (https://github.com/VisualC5x/Valy-Launcher-/blob/main/INSTALLATION-GUIDE.MD) 
 ---
 ### ═══════════════════════ ✦ ═══════════════════════
