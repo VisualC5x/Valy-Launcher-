@@ -111,7 +111,7 @@
 
 ⬇️ 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗟𝗜𝗡𝗞
 
-[https://github.com/VisualC5x/Valy-Launcher/releases/tag/3.2.2](https://github.com/VisualC5z/Valy-Launcher/releases/tag/3.2.2)
+[https://github.com/VisualC5x/Valy-Launcher-/releases/tag/3.2.2)
 ---
 
 📖 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗚𝗨𝗜𝗗𝗘
