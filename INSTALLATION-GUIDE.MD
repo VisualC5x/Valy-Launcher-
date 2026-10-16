@@ -4,7 +4,7 @@
 ---
 🚀 𝗛𝗼𝘄 𝘁𝗼 𝗜𝗻𝘀𝘁𝗮𝗹𝗹
 
-① First, download the "valylauncherstuap_3.2.2.exe" file.
+① First, download the "ValyLauncherStuap_3.2.2.exe" file.
 
 ② Open the "ValyLauncherSetup_3.2.2.exe" file.
 
