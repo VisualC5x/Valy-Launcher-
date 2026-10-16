@@ -4,7 +4,7 @@
 ---
 🚀 𝗛𝗼𝘄 𝘁𝗼 𝗜𝗻𝘀𝘁𝗮𝗹𝗹
 
-① First, download the "ValyLauncherStuap_3.2.2.exe" file.
+① First, download the "ValyLauncherSetup_3.2.2.exe" file.
 
 ② Open the "ValyLauncherSetup_3.2.2.exe" file.
 
@@ -80,6 +80,6 @@ Installation · Premium Activation · Updates
 
 ⬇️ 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗟𝗜𝗡𝗞
 
-[https://github.com/VisualC5z/Valy-Launcher/releases/tag/3.2.2](https://github.com/VisualC5z/Valy-Launcher/releases/tag/3.2.2)
+https://github.com/VisualC5x/Valy-Launcher-/releases/tag/3.2.2
 
 ════════════✦═══════════
